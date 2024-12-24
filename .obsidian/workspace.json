@@ -11,13 +11,34 @@
             "id": "b9c797630db1cfd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
+            }
+          },
+          {
+            "id": "9fc310380a32e96a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -132,9 +154,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Untitled.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -165,10 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26fb57f0eb62ac7c",
+  "active": "9fc310380a32e96a",
   "lastOpenFiles": [
-    "새 텍스트 문서.txt",
-    "Untitled.md",
-    "Untitled"
+    "2024-12-25.md",
+    "Untitled.canvas",
+    "제목/Test.md",
+    "제목",
+    "새 텍스트 문서.txt"
   ]
 }
